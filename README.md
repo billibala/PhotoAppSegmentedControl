@@ -6,6 +6,8 @@ This is an attempt to recreate that. (not very successful but good enough in som
 
 Apple's custome bar is in "capsule pill" style. This is different from UISegmentedControl which is a round rect.
 
+![Screenshot](/screenshot.jpg)
+
 This implementation does have its merits. You don't need to incorporate any 3rd-party library. You also get all the new behavior a UISeglementedControl get in iOS 13. (All those interaction details... for example: tapping a segment will get a bounce highlight, swiping on top of the segment to change selection...)
 
 If you are ok with the system look-and-feel, this implementation is not a bad choice IMO.
