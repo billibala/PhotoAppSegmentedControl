@@ -24,6 +24,7 @@
 		A901E59F250DFF5300C0853A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A901E5A2250DFF5300C0853A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A901E5A4250DFF5300C0853A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A901E5AA250F4C2200C0853A /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +43,7 @@
 			children = (
 				A901E595250DFF5100C0853A /* PhotoAppSegmentedControl */,
 				A901E594250DFF5100C0853A /* Products */,
+				A901E5AA250F4C2200C0853A /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
